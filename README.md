@@ -1,5 +1,6 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Oliveira 👋
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para a área de Tecnologia da Informação. Atualmente, desenvolvo conhecimentos em desenvolvimento web, lógica de programação, Git/GitHub e fundamentos de redes, buscando minha primeira oportunidade na área para aplicar meus estudos, evoluir tecnicamente e contribuir com soluções organizadas, funcionais e bem documentadas.
 <!--
 **Matt-Oliv13/Matt-Oliv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
